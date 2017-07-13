@@ -13,7 +13,7 @@
     easing="ease-in-out-circ"
     repeat="indefinite"></a-animation>
     </a-sphere>
-   <a-marker-camera type=pattern patternUrl='https://github.com/khushalsukhadia/Dashboard/blob/master/1.pat'></a-marker-camera>
+   <a-marker-camera type=pattern patternUrl='Dashboard/marker16 - m3.pat'></a-marker-camera>
 
   </a-scene>
 </body>
